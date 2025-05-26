@@ -1,6 +1,8 @@
 # 🕺 BailaLoop – Support & Help
 
-**BailaLoop** is a simple video looping app designed for dancers, choreographers, and performers who want to practice specific sections of a video by looping them repeatedly.
+[**BailaLoop**](https://apps.apple.com/us/app/bailaloop/id6746104102) is a simple video looping app designed for dancers, choreographers, and performers who want to practice specific sections of a video by looping them repeatedly.
+
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/id6746104102)
 
 This page provides support information, contact details, and answers to common questions.
 

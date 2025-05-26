@@ -11,7 +11,7 @@ This page provides support information, contact details, and answers to common q
 ## 📌 What is BailaLoop?
 
 BailaLoop lets you:
-- Import videos from your device using the Files app
+- Open videos from your device
 - Set loop points to repeat sections of a video
 - Practice choreography, technique, or timing with ease
 
@@ -20,9 +20,6 @@ While originally created for Latin dance training, BailaLoop works great for any
 ---
 
 ## ❓ Frequently Asked Questions
-
-**Q: Can I import videos from my camera roll?**  
-A: BailaLoop uses the Files app for video import. You can save videos to Files and then open them in BailaLoop.
 
 **Q: Does BailaLoop support slow motion or playback speed controls?**  
 A: Yes, you can watch videos at 0.5x
